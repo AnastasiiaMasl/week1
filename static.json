@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-    "X-Author": "gensoc2018_55"
+    "X-Author": "gensoc2018_55",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
