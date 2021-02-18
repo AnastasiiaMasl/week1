@@ -1,6 +1,6 @@
 {
   "headers": {
-    "/*" {
+    "/*": {
     "X-Author": "gensoc2018_55"
     }
   }
